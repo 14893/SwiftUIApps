@@ -517,12 +517,12 @@
 				DEVELOPMENT_ASSET_PATHS = "\"LazyLoadingDemo/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = LazyLoadingDemo/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.codecat15.swiftuidemo.LazyLoadingDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.karishma.swiftuiDemo.LazyLoadingDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -538,12 +538,12 @@
 				DEVELOPMENT_ASSET_PATHS = "\"LazyLoadingDemo/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = LazyLoadingDemo/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.codecat15.swiftuidemo.LazyLoadingDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.karishma.swiftuiDemo.LazyLoadingDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
